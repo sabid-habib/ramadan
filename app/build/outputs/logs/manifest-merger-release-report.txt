@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:11:5-35:19
+	android:label
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:14:9-47
+	android:allowBackup
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.sabid.ramadanschedule2015.MainActivity
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:18:13-51
+	android:configChanges
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:18:52-90
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:17:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:23:27-74
+receiver#com.sabid.ramadanschedule2015.ramadanWidget
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:26:6-32:14
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:26:16-74
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:27:7-29:23
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:28:11-78
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:28:19-75
+meta-data#android.appwidget.provider
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:30:7-31:51
+	android:resource
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:31:18-48
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:30:18-59
+activity#com.sabid.ramadanschedule2015.ScheduleView
+ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:33:6-55
+	android:name
+		ADDED from F:\ANother Pro repo\app\src\main\AndroidManifest.xml:33:16-43

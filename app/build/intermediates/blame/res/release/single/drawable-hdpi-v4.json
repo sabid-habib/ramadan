@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ANother Pro repo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\ANother Pro repo\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\ANother Pro repo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\ANother Pro repo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\ANother Pro repo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\ANother Pro repo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ANother Pro repo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\backmoon.png",
+        "source": "F:\\ANother Pro repo\\app\\src\\main\\res\\drawable-hdpi\\backmoon.png"
+    }
+]

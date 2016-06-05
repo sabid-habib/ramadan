@@ -1,0 +1,247 @@
+[
+    {
+        "outputFile": "F:\\ANother Pro repo\\app\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 67,
+                    "endColumn": 19,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endLine": 72,
+                        "endColumn": 19,
+                        "endOffset": 2357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 57,
+                    "endOffset": 2121
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2126,
+                    "endColumn": 55,
+                    "endOffset": 2177
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2182,
+                    "endColumn": 52,
+                    "endOffset": 2230
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 52,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2235,
+                    "endColumn": 58,
+                    "endOffset": 2289
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 58,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2294,
+                    "endColumn": 59,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 59,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2354,
+                    "endColumn": 52,
+                    "endOffset": 2402
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 52,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2407,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 2693
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2698,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 2853
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2858,
+                    "endLine": 88,
+                    "endColumn": 12,
+                    "endOffset": 3063
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3068,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 3265
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 611,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3270,
+                    "endLine": 96,
+                    "endColumn": 9,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "F:\\ANother Pro repo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 484,
+                        "endLine": 15,
+                        "endColumn": 9,
+                        "endOffset": 608
+                    }
+                }
+            }
+        ]
+    }
+]

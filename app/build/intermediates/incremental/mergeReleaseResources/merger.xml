@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\ANother Pro repo\app\src\main\res"/><source path="F:\ANother Pro repo\app\build\generated\res\rs\release"/><source path="F:\ANother Pro repo\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="F:\ANother Pro repo\app\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\ANother Pro repo\app\src\main\res"><file name="back" path="F:\ANother Pro repo\app\src\main\res\drawable-hdpi\back.png" qualifiers="hdpi-v4" type="drawable"/><file name="backmoon" path="F:\ANother Pro repo\app\src\main\res\drawable-hdpi\backmoon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="F:\ANother Pro repo\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\ANother Pro repo\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\ANother Pro repo\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\ANother Pro repo\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\ANother Pro repo\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="F:\ANother Pro repo\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="listview_layout" path="F:\ANother Pro repo\app\src\main\res\layout\listview_layout.xml" qualifiers="" type="layout"/><file name="schedule_list" path="F:\ANother Pro repo\app\src\main\res\layout\schedule_list.xml" qualifiers="" type="layout"/><file name="widget_layout" path="F:\ANother Pro repo\app\src\main\res\layout\widget_layout.xml" qualifiers="" type="layout"/><file name="main" path="F:\ANother Pro repo\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\ANother Pro repo\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="F:\ANother Pro repo\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="app_name">Ramadan Schedule 2015</string><string name="app_name_label">Ramadan Schedule</string><string-array name="Location_districts">
+        <item>Bagerhat</item>
+        <item>Bandarban</item>
+ 		<item>Barguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Bogra</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chapainawabganj</item>
+        <item>Chittagong</item>
+        <item>Chuadanga</item>
+        <item>Comilla</item>
+        <item>Coxs Bazar</item>
+        <item>Dhaka</item>
+        <item>Dinajpur</item>
+        <item>Faridpur</item>
+        <item>Feni</item>        
+        <item>Gaibandha</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Habiganj</item>
+        <item>Jamalpur</item>
+        <item>Jessore</item>
+        <item>Jhalokati</item>
+        <item>Jhenaidah</item>
+        <item>Joypurhat</item>
+        <item>Khagrachhari</item>
+        <item>Khulna</item>
+        <item>Kishoreganj</item>
+        <item>Kurigram</item>
+        <item>Kushtia</item>
+        <item>Lakshmipur</item>
+        <item>Lalmonirhat</item>
+        <item>Magura</item>
+        <item>Madaripur</item>
+        <item>Manikganj</item>
+        <item>Meherpur</item>
+        <item>Moulvibazar</item>
+        <item>Munshiganj</item>
+        <item>Mymensingh</item>
+        <item>Naogaon</item>
+        <item>Narail</item>
+        <item>Narayanganj</item>
+        <item>Narshingdi</item>
+        <item>Natore</item>
+        <item>Netrokona</item>
+        <item>Noakhali</item>
+        <item>Nilphamari</item>
+        <item>Pabna</item>
+        <item>Panchagarh</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Rangamati</item>
+        <item>Rangpur</item>
+        <item>Rajbari</item>
+        <item>Rajshahi</item>
+        <item>Satkhira</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Sirajganj</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Thakurgaon</item>
+    </string-array></file><file path="F:\ANother Pro repo\app\src\main\res\values\styles.xml" qualifiers=""><style name="x" parent="@android:style/TextAppearance.Small">
+    	<item name="android:textColor">#FFFFFF</item>
+	</style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="spinnerItemStyle">
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="spinnerDropDownItemStyle">
+        <item name="android:padding">20dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style></file><file path="F:\ANother Pro repo\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="F:\ANother Pro repo\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="F:\ANother Pro repo\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="widget" path="F:\ANother Pro repo\app\src\main\res\xml\widget.xml" qualifiers="" type="xml"/></source><source path="F:\ANother Pro repo\app\build\generated\res\rs\release"/><source path="F:\ANother Pro repo\app\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="F:\ANother Pro repo\app\src\release\res"/></dataSet><mergedItems/></merger>
